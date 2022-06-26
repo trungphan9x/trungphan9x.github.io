@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-  color: rgb(36, 134, 214);
+  color: rgb(255, 0, 0);
   font-size: 400%;
   font-weight: 900;
   font-family: cursive;
@@ -18,7 +18,7 @@ hr {
 }
 
 .intro {
-  color: midnightblue;
+  color: blueviolet;
   font-size: 125%;
   font-family: "Times New Roman", Times, serif;
   margin-left: 5%;
@@ -79,7 +79,7 @@ div.word {
   text-align: center;
   font-size: 125%;
   font-weight: bold;
-  color: royalblue;
+  color: red;
 }
 
 .responsive {
