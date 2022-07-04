@@ -1,6 +1,4 @@
-#  LAB 3A
-## Exercise 1: Float boxes
-To satisfy the criteria, I add a new class called **break** to the fourth div and modify the other css elements as follows:
+## Exercise 1/ Float boxes: To satisfy the criteria, I add a new class called **break** to the fourth div and modify the other css elements as follows:
 
 ```css
 #outer {
@@ -20,8 +18,7 @@ To satisfy the criteria, I add a new class called **break** to the fourth div an
 }
 ```
 
-## Exercise 2: Menu
-To complete this experiment, I add the following CSS elements. I utilize 'display: inline' in particular to adjust the location of li.
+## Exercise 2/ Menu: To complete this experiment, I add the following CSS elements. I utilize 'display: inline' in particular to adjust the location of li.
 ```css
 ul {
   background-color: red;
@@ -37,8 +34,7 @@ li {
 }
 ```
 
-## Exercise 3: Layout 2.
-To complete the experiment, I add the following CSS elements. I use 'float: right' to position the first and second columns to the right of the third column.
+## Exercise 3/ Layout 2: To complete the experiment, I add the following CSS elements. I use 'float: right' to position the first and second columns to the right of the third column.
 
 ```css
 #container {
@@ -57,40 +53,3 @@ h1 {
   background-color: yellow;
 }
 ```
-
-## Exercise 4: More floats
-To overcome this problem, I utilize the CSS properties 'float' and 'clear' in conjunction to make the UI seem as intended.
-
-```css
-// 1
-#a {
-  float: left;
-}
-#b {
-  float: right;
-}
-
-// 2
-#a {
-  float: left;
-}
-#b {
-  float: right;
-  clear: left;
-}
-
-// 3
-#a {
-  float: left;
-}
-#b {
-  float: right;
-  clear: left;
-}
-#c {
-  clear: left;
-  text-align: right;
-}
-
-```
-
